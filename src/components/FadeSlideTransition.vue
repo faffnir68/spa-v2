@@ -19,7 +19,7 @@ import { ref } from 'vue'
 .fade-slide-enter-from,
 .fade-slide-leave-to {
   opacity: 0;
-  transform: translateX(-10px);
+  transform: translateX(-10px); 
 }
 
 </style>
